@@ -1,7 +1,6 @@
 👋 Hi, I’m Dharaneesh
-💻 Currently working as a Systems Engineer @ Infosys, chennai
+💻 Currently pursuing masters degree in Information systems focused on business intelligence and analytics at university of utah.
 👨🏽‍💻 Currently growing my skillset in Data Science and Machine learning
-📚 I’m looking to pursue masters degree in USA
 📫 Reach me @ dharaneeshraju@gmail.com
 
 <!---
