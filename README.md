@@ -1,6 +1,6 @@
 👋 Hi, I’m Dharaneesh
 💻 Currently pursuing masters degree in Business Analytics at university of utah.
-👨🏽‍💻 Currently growing my skillset in the field of Data analysis and Data engineering
+👨🏽‍💻 Currently growing my skillset in the field of Data analysis and Data engineering.
 📫 Reach me @ dharaneeshraju@gmail.com
 
 <!---
