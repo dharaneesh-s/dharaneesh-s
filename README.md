@@ -6,6 +6,28 @@ I have included some of my public project works on this page. However, I cannot 
 
 Tableau Public: https://public.tableau.com/app/profile/dharaneesh.subramani
 
+Some of my Projects:
+
+▪ Swire Coca Cola Capstone Project: Developed a predictive model utilizing historical data to accurately predict the popularity (using Yelp API), longevity, and total 3-year sales volume of new customers for Swire Coca-Cola. Employed a variety of classification models to achieve high accuracy in the predictions. Designed and developed an interactive dashboard to provide stakeholders with real-time access to insights and predictions. Measured the project's success based on the accuracy of the predictions and the effectiveness of the dashboard in supporting decision-making processes.
+
+▪ Orange Juice Sales Prediction: Constructed a predictive model to predict the probability of customers buying a specific orange juice brand, analyzing the performance of orange juice brands in the grocery store chain using glm (logistics regression) and Xgboost (Gradient Boosted Tree).
+
+▪ Kaggle House Price Prediction: Predicted house prices using advanced regression models ensemble combining glmnet (Penalized Regression), ranger (Random Forest), and Xgboost (Gradient Boosted Tree). Predicted the final price of each home with 79 explanatory variables describing most aspects of residential homes in Ames, Iowa. Project ranked in the top 3% out of 5K teams in the Kaggle with an RMSLE score of 0.12 (~89% accuracy). 
+
+▪ Super Bowl Game Day Ad Analytics: Analyzed super bowl commercial tweets from Twitter API using R to provide valuable insights to advertisers, including sentiment and return on ad spend. Achieved 3rd place in the Utah game day analytics challenge out of fifty participating teams
+
+▪ Cricket Data - Web Mining and Visualization: Instrumental in extracting cricket data of players from the cricket database on the web. Created and distributed reports using Scikit-learn to represent each player’s performance in the form of charts and graphs using Matplotlib library. Technology: Python, BeautifulSoup, Scikit Learn, Matplotlib.
+
+▪ Medical Data ChatbotMedical Data Chatbot: Instrumental in gathering Lung and Heart Disease dataset, while leveraging to tokenize and separate the keywords from the dataset. Provided strategic recommendations to enhancing keywords and frame sentences. Technology: Python, BeautifulSoup, NLTK, Scikit LearnInstrumental in gathering Lung and Heart Disease dataset, while leveraging to tokenize and separate the keywords from the dataset. Provided strategic recommendations to enhancing keywords and frame sentences. Technology: Python, BeautifulSoup, NLTK, Scikit Learn
+
+▪ Heart Disease Prediction Using Machine Learning Techniques: Created and launched a Heart Disease prediction system by using R libraries to enhance accuracy and decrease time needed. Leveraged data mining techniques to assess the severity of heart disease among humans, with a focus on 15 medical parameters for prediction, such as age, sex, blood pressure, and cholesterol level. Technology: R Studio, R 3.4.
+
+▪ Intelligent Tutor System for English Grammars: Designed Intelligent Tutor System, an interactive web application, to assist middle school students in learning English grammar. Delivered expert technical support and feedback based on assessments and student knowledge. Participated and published a paper in the proceedings of NCCC20 (9th National Conference on Computing and Communication, Mar 6th, 2020). Technology: Python, Flask-Bootstrap.
+
+▪ Age, Gender and Exhaustion Detector: Developed a system to guess the gender, age, and drowsiness of the person in a webcam’s stream or a picture using Deep Learning. Deteceted drowsiness by Open CV and Adience data set to classify and alert when the user’s eyes are closed for a long period of time. Technology: Python, Open CV, and Keras-Convolutional Neural Networks (CNN).
+
+▪ Pizza Parlor Application: Created an Android application with user panel, delivery panel, and admin panel for ordering and delivering the pizza. Technology: Android Studio, SQLite, Java.Created an Android application with user panel, delivery panel, and admin panel for ordering and delivering the pizza. Technology: Android Studio, SQLite, Java.
+
 <!---
 dharaneesh-s/dharaneesh-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
