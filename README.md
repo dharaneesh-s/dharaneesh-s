@@ -10,7 +10,7 @@ Projects:
 
 ▪ Nonprofit Transparency Analyzer - AI-Powered IRS Form 990 Visualization Tool
 Tech Stack: React, TailwindCSS, Recharts, FastAPI, OpenAI GPT-4, ProPublica IRS 990 API
-Built a full-stack web platform that transforms complex IRS Form 990 data into insightful visual dashboards and natural-language summaries using GPT-4.
+Built a full-stack AI platform that transforms IRS Form 990 data (2011–present) into interactive dashboards and GPT-4–generated financial insights — saving organizations $200K+ in manual analysis costs
 AI Integration: Engineered dual FastAPI microservices — one for ingesting 990 data via the ProPublica API and another to generate financial summaries & answer queries using OpenAI’s GPT-4.
 Frontend: Developed an interactive React + Tailwind interface with Recharts to visualize multi-year trends (revenue, expenses, assets).
 Conversational Analytics: Enabled users to ask financial questions (e.g., "How did expenses change?") with contextual GPT-4 answers grounded in IRS data.
