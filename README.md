@@ -8,15 +8,14 @@ Tableau Public: https://public.tableau.com/app/profile/dharaneesh.subramani
 
 Projects:
 
-▪ Nonprofit Transparency Analyzer - AI-Powered IRS Form 990 Visualization Tool
-Tech Stack: React, TailwindCSS, Recharts, FastAPI, OpenAI GPT-4, ProPublica IRS 990 API
-Built a full-stack AI platform that transforms IRS Form 990 data (2011–present) into interactive dashboards and GPT-4–generated financial insights — saving organizations $200K+ in manual analysis costs
-AI Integration: Engineered dual FastAPI microservices — one for ingesting 990 data via the ProPublica API and another to generate financial summaries & answer queries using OpenAI’s GPT-4.
-Frontend: Developed an interactive React + Tailwind interface with Recharts to visualize multi-year trends (revenue, expenses, assets).
-Conversational Analytics: Enabled users to ask financial questions (e.g., "How did expenses change?") with contextual GPT-4 answers grounded in IRS data.
-DevOps: Configured seamless local dev setup with uvicorn, npm, and .env API key integration; hot reload enabled for both frontend and backend.
-Demo-ready: Supports EIN search, dynamic summaries, and live Q&A — with future roadmap for PDF exports and grant-writing assistant features.
-Example Use Case: Instantly analyze nonprofit financial health using EIN 20-3568840 to generate GPT-4 summaries and visualizations.
+▪ Nonprofit Transparency Analyzer – AI-Powered IRS Form 990 Visualization Tool
+Tech Stack: React, TailwindCSS, Recharts, FastAPI, OpenAI GPT-4, Perplexity Sonar API, ProPublica IRS 990 API
+Built a full-stack AI platform that transforms IRS Form 990 data (2011–present) into interactive dashboards and financial insights using OpenAI GPT-4, saving organizations over $200K in manual analysis costs.
+AI Integration: Engineered dual FastAPI microservices — one for ingesting IRS 990 data via the ProPublica API and another to generate financial summaries and respond to user queries using OpenAI GPT-4 and Perplexity Sonar API.
+Frontend: Developed an interactive interface using React, TailwindCSS, and Recharts to visualize multi-year trends in revenue, expenses, and assets.
+Conversational Analytics: Enabled users to ask financial questions (e.g., "How did expenses change?") and receive contextual answers grounded in IRS data.
+DevOps: Configured seamless local development with Uvicorn, npm, and .env integration for API keys; enabled hot reloading for frontend and backend services.
+Demo-Ready Features: Supports EIN search, dynamic summaries, and live Q&A, with a roadmap for PDF exports and grant-writing assistant functionality.
 
 ▪ Swire Coca Cola Capstone Project: Developed a predictive model utilizing historical data to accurately predict the popularity (using Yelp API), longevity, and total 3-year sales volume of new customers for Swire Coca-Cola. Employed a variety of classification models to achieve high accuracy in the predictions. Designed and developed an interactive dashboard to provide stakeholders with real-time access to insights and predictions. Measured the project's success based on the accuracy of the predictions and the effectiveness of the dashboard in supporting decision-making processes.
 
