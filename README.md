@@ -1,45 +1,54 @@
-Dharaneesh is a results-driven leader with a strong passion for data and a proven track record of enhancing technical excellence and driving project success. Skilled in data analysis, data engineering, and utilizing a wide range of software and technology to achieve business objectives. He is known for building and maintaining strong relationships with cross-functional team members, ensuring successful execution of strategic project plans. Dharaneesh is seeking new opportunities in Data Analysis or Data Engineering roles, where he can leverage his skills and experience to drive success for his team and organization. 
+# Hi, I'm Dharaneesh 👋
 
-Included some of public project works on this page. However, cannot share all of my projects due to privacy concerns. If you are interested in seeing more of my work, please feel free to contact directly
+Data & AI professional with 5+ years of experience building data pipelines, deploying ML models, and delivering dashboards across healthcare, finance, and government. I enjoy working end-to-end — from raw data wrangling to putting AI-powered tools in the hands of people who need them.
 
-📫 Reach @ dharaneeshraju@gmail.com
+Currently at **Harris County Government** (Houston, TX), where I build automated data pipelines, design executive dashboards for $400M+ in housing programs, and lead data governance and AI readiness initiatives.
 
-Tableau Public: https://public.tableau.com/app/profile/dharaneesh.subramani
+---
 
-Projects:
+### What I work with
 
-▪ Nonprofit Transparency Analyzer – AI-Powered IRS Form 990 Visualization Tool
-Tech Stack: React, TailwindCSS, Recharts, FastAPI, OpenAI GPT-4, Perplexity Sonar API, ProPublica IRS 990 API
-Built a full-stack AI platform that transforms IRS Form 990 data (2011–present) into interactive dashboards and financial insights using OpenAI GPT-4, saving organizations over $200K in manual analysis costs.
-AI Integration: Engineered dual FastAPI microservices — one for ingesting IRS 990 data via the ProPublica API and another to generate financial summaries and respond to user queries using OpenAI GPT-4 and Perplexity Sonar API.
-Frontend: Developed an interactive interface using React, TailwindCSS, and Recharts to visualize multi-year trends in revenue, expenses, and assets.
-Conversational Analytics: Enabled users to ask financial questions (e.g., "How did expenses change?") and receive contextual answers grounded in IRS data.
-DevOps: Configured seamless local development with Uvicorn, npm, and .env integration for API keys; enabled hot reloading for frontend and backend services.
-Demo-Ready Features: Supports EIN search, dynamic summaries, and live Q&A, with a roadmap for PDF exports and grant-writing assistant functionality.
+**AI/ML:** Python, R, scikit-learn, XGBoost, Hugging Face Transformers, OpenAI API, Claude API, Llama, LangChain, spaCy, NLTK, SageMaker  
+**Data Engineering:** Spark, Databricks, Kafka, AWS Glue, Snowflake, BigQuery, MSSQL, SSIS, PostgreSQL  
+**Analytics & BI:** Power BI, Tableau, Looker, Alteryx, Adobe Analytics, ArcGIS Pro  
+**Platforms:** FastAPI, Flask, React, Supabase, Docker, Azure DevOps, Git
 
-▪ Swire Coca Cola Capstone Project: Developed a predictive model utilizing historical data to accurately predict the popularity (using Yelp API), longevity, and total 3-year sales volume of new customers for Swire Coca-Cola. Employed a variety of classification models to achieve high accuracy in the predictions. Designed and developed an interactive dashboard to provide stakeholders with real-time access to insights and predictions. Measured the project's success based on the accuracy of the predictions and the effectiveness of the dashboard in supporting decision-making processes.
+---
 
-▪ Orange Juice Sales Prediction: Constructed a predictive model to predict the probability of customers buying a specific orange juice brand, analyzing the performance of orange juice brands in the grocery store chain using glm (logistics regression) and Xgboost (Gradient Boosted Tree).
+### Selected projects
 
-▪ Kaggle House Price Prediction: Predicted house prices using advanced regression models ensemble combining glmnet (Penalized Regression), ranger (Random Forest), and Xgboost (Gradient Boosted Tree). Predicted the final price of each home with 79 explanatory variables describing most aspects of residential homes in Ames, Iowa. Project ranked in the top 3% out of 5K teams in the Kaggle with an RMSLE score of 0.12 (~89% accuracy). 
+Most of my production work lives in private repos — happy to walk through architecture and code in conversation. Here are some public and shareable highlights:
 
-▪ Super Bowl Game Day Ad Analytics: Analyzed super bowl commercial tweets from Twitter API using R to provide valuable insights to advertisers, including sentiment and return on ad spend. Achieved 3rd place in the Utah game day analytics challenge out of fifty participating teams
+**🤖 AI Trading Bot** — Autonomous trading system powered by Llama 3.3 70B that analyzes real-time market data, news sentiment (Finnhub WebSocket), and social signals (Nitter RSS) to execute trades with risk management guardrails.  
+`Python` `Llama 3.3` `Finnhub API` `WebSocket` `FastAPI`
 
-▪ Cricket Data - Web Mining and Visualization: Instrumental in extracting cricket data of players from the cricket database on the web. Created and distributed reports using Scikit-learn to represent each player’s performance in the form of charts and graphs using Matplotlib library. Technology: Python, BeautifulSoup, Scikit Learn, Matplotlib.
+**📊 Nonprofit Transparency Analyzer** — Full-stack AI platform for United Cerebral Palsy (50+ affiliates) to analyze IRS Form 990 data. Dual FastAPI microservices handle IRS data ingestion and GPT-4-powered financial Q&A, with a React frontend for multi-year trend visualization. Saved $150K+/year in vendor costs.  
+`React` `FastAPI` `GPT-4 API` `Perplexity Sonar` `Supabase` `Recharts`
 
-▪ Medical Data ChatbotMedical Data Chatbot: Instrumental in gathering Lung and Heart Disease dataset, while leveraging to tokenize and separate the keywords from the dataset. Provided strategic recommendations to enhancing keywords and frame sentences. Technology: Python, BeautifulSoup, NLTK, Scikit LearnInstrumental in gathering Lung and Heart Disease dataset, while leveraging to tokenize and separate the keywords from the dataset. Provided strategic recommendations to enhancing keywords and frame sentences. Technology: Python, BeautifulSoup, NLTK, Scikit Learn
+**📄 AI-Powered PDF Extractor** — Pipeline converting complex unstructured PDFs into structured data at 90%+ accuracy using OCR, Hugging Face transformers, and multi-LLM orchestration.  
+`Python` `Tesseract OCR` `Hugging Face` `spaCy` `GPT-4` `FastAPI`
 
-▪ Heart Disease Prediction Using Machine Learning Techniques: Created and launched a Heart Disease prediction system by using R libraries to enhance accuracy and decrease time needed. Leveraged data mining techniques to assess the severity of heart disease among humans, with a focus on 15 medical parameters for prediction, such as age, sex, blood pressure, and cholesterol level. Technology: R Studio, R 3.4.
+**🏠 Kaggle House Price Prediction** — Ensemble of glmnet, Random Forest, and XGBoost on 79 features. Ranked **top 3% out of 5,000+ teams** (RMSLE: 0.12).  
+`R` `glmnet` `ranger` `XGBoost`
 
-▪ Intelligent Tutor System for English Grammars: Designed Intelligent Tutor System, an interactive web application, to assist middle school students in learning English grammar. Delivered expert technical support and feedback based on assessments and student knowledge. Participated and published a paper in the proceedings of NCCC20 (9th National Conference on Computing and Communication, Mar 6th, 2020). Technology: Python, Flask-Bootstrap.
+**🏈 Sales Forecasting – Swire Coca-Cola** — Predicted customer viability and 3-year revenue using Yelp data and ensemble ML. Built a Plotly decision dashboard for the sales team.  
+`Python` `scikit-learn` `Yelp API` `Plotly`
 
-▪ Age, Gender and Exhaustion Detector: Developed a system to guess the gender, age, and drowsiness of the person in a webcam’s stream or a picture using Deep Learning. Deteceted drowsiness by Open CV and Adience data set to classify and alert when the user’s eyes are closed for a long period of time. Technology: Python, Open CV, and Keras-Convolutional Neural Networks (CNN).
+**🏥 Healthcare Data Engineering – Rigor Health** — Spark + AWS Glue pipelines for genomics and clinical literature, ML models via SageMaker, reduced AWS costs by 25%.  
+`Spark` `AWS Glue` `SageMaker`
 
-▪ Pizza Parlor Application: Created an Android application with user panel, delivery panel, and admin panel for ordering and delivering the pizza. Technology: Android Studio, SQLite, Java.Created an Android application with user panel, delivery panel, and admin panel for ordering and delivering the pizza. Technology: Android Studio, SQLite, Java.
+**📝 Published Research** — Co-authored a paper on an Intelligent Tutor System for English grammar, presented at NCCC20 (9th National Conference on Computing and Communication, 2020).  
+`Python` `Flask` `NLP`
 
-<!---
-dharaneesh-s/dharaneesh-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+### Public dashboards & portfolio
 
+🔗 [Tableau Public](https://public.tableau.com/app/profile/dharaneesh.subramani)
+
+---
+
+### Let's connect
+
+📫 dharaneeshsubra@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/dharaneeshraj/)
