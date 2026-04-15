@@ -1,54 +1,68 @@
-# Hi, I'm Dharaneesh 👋
+# Dharaneesh Subramani
 
-Data & AI professional with 5+ years of experience building data pipelines, deploying ML models, and delivering dashboards across healthcare, finance, and government. I enjoy working end-to-end — from raw data wrangling to putting AI-powered tools in the hands of people who need them.
+**Data & AI Engineer** — I build things that move data from messy to meaningful.
 
-Currently at **Harris County Government** (Houston, TX), where I build automated data pipelines, design executive dashboards for $400M+ in housing programs, and lead data governance and AI readiness initiatives.
+5+ years shipping data pipelines, ML models, and AI-powered applications across government, healthcare, and finance. I've processed 150M+ records for regulatory risk systems, designed dashboards that oversee $400M+ in federal housing programs, and built autonomous systems that trade stocks using large language models.
 
----
-
-### What I work with
-
-**AI/ML:** Python, R, scikit-learn, XGBoost, Hugging Face Transformers, OpenAI API, Claude API, Llama, LangChain, spaCy, NLTK, SageMaker  
-**Data Engineering:** Spark, Databricks, Kafka, AWS Glue, Snowflake, BigQuery, MSSQL, SSIS, PostgreSQL  
-**Analytics & BI:** Power BI, Tableau, Looker, Alteryx, Adobe Analytics, ArcGIS Pro  
-**Platforms:** FastAPI, Flask, React, Supabase, Docker, Azure DevOps, Git
+I care about the full loop — not just training the model, but getting it into someone's hands where it actually changes a decision.
 
 ---
 
-### Selected projects
+### Currently
 
-Most of my production work lives in private repos — happy to walk through architecture and code in conversation. Here are some public and shareable highlights:
+**Analyst III** at **Harris County Government** (Houston, TX) — Housing & Community Development, Executive Office
 
-**🤖 AI Trading Bot** — Autonomous trading system powered by Llama 3.3 70B that analyzes real-time market data, news sentiment (Finnhub WebSocket), and social signals (Nitter RSS) to execute trades with risk management guardrails.  
-`Python` `Llama 3.3` `Finnhub API` `WebSocket` `FastAPI`
-
-**📊 Nonprofit Transparency Analyzer** — Full-stack AI platform for United Cerebral Palsy (50+ affiliates) to analyze IRS Form 990 data. Dual FastAPI microservices handle IRS data ingestion and GPT-4-powered financial Q&A, with a React frontend for multi-year trend visualization. Saved $150K+/year in vendor costs.  
-`React` `FastAPI` `GPT-4 API` `Perplexity Sonar` `Supabase` `Recharts`
-
-**📄 AI-Powered PDF Extractor** — Pipeline converting complex unstructured PDFs into structured data at 90%+ accuracy using OCR, Hugging Face transformers, and multi-LLM orchestration.  
-`Python` `Tesseract OCR` `Hugging Face` `spaCy` `GPT-4` `FastAPI`
-
-**🏠 Kaggle House Price Prediction** — Ensemble of glmnet, Random Forest, and XGBoost on 79 features. Ranked **top 3% out of 5,000+ teams** (RMSLE: 0.12).  
-`R` `glmnet` `ranger` `XGBoost`
-
-**🏈 Sales Forecasting – Swire Coca-Cola** — Predicted customer viability and 3-year revenue using Yelp data and ensemble ML. Built a Plotly decision dashboard for the sales team.  
-`Python` `scikit-learn` `Yelp API` `Plotly`
-
-**🏥 Healthcare Data Engineering – Rigor Health** — Spark + AWS Glue pipelines for genomics and clinical literature, ML models via SageMaker, reduced AWS costs by 25%.  
-`Spark` `AWS Glue` `SageMaker`
-
-**📝 Published Research** — Co-authored a paper on an Intelligent Tutor System for English grammar, presented at NCCC20 (9th National Conference on Computing and Communication, 2020).  
-`Python` `Flask` `NLP`
+Building the data infrastructure and AI tooling behind one of the largest county housing programs in the U.S. This includes automated pipelines across five enterprise platforms, executive dashboards used by elected officials and federal partners, and the department's first AI governance framework. Some of my organizational work involves public-facing dashboards and tools — happy to walk through those when we connect.
 
 ---
 
-### Public dashboards & portfolio
+### What I build with
 
-🔗 [Tableau Public](https://public.tableau.com/app/profile/dharaneesh.subramani)
+```
+AI / ML          Python, R, scikit-learn, XGBoost, Hugging Face, spaCy, NLTK,
+                 OpenAI API, Claude API, Llama, LangChain, SageMaker, CNN
+
+Data Eng         Spark, Databricks, Kafka, AWS Glue, Snowflake, BigQuery,
+                 MSSQL, SSIS, PostgreSQL, MySQL, Data Vault
+
+Analytics        Power BI, Tableau, Looker, Alteryx, Adobe Analytics, ArcGIS Pro
+
+Building         FastAPI, Flask, React, Supabase, Docker, Azure DevOps, Git
+```
 
 ---
 
-### Let's connect
+### Things I've built
+
+> Most production work is in private repos. I'm happy to walk through architecture, code, and design decisions on a call.
+
+**AI Trading Bot** — An autonomous system that uses Llama 3.3 70B to read live market feeds (Finnhub WebSocket), financial news, and social sentiment (Nitter RSS), then executes trades with built-in risk guardrails and position sizing. Not a toy — it manages real positions.
+
+**Nonprofit Transparency Platform** — Full-stack app for United Cerebral Palsy (50+ affiliates) to analyze IRS Form 990 filings. Dual FastAPI backend: one service ingests IRS data, the other runs GPT-4 + Perplexity Sonar for financial Q&A. React + Recharts frontend for multi-year trend visualization. Replaced $150K+/year in vendor spend.
+
+**Intelligent PDF Extractor** — Pipeline that converts messy, unstructured PDFs (engineering diagrams, government forms) into clean structured data at 90%+ accuracy. OCR + Hugging Face transformers + multi-LLM reasoning for context-aware extraction.
+
+**Kaggle House Price Prediction** — Ensemble of glmnet, Random Forest, and XGBoost across 79 features. **Top 3% out of 5,000+ teams** (RMSLE: 0.12).
+
+**Healthcare Data Pipelines** — Spark + AWS Glue for unstructured genomics and clinical literature at Rigor Health. Deployed classification models via SageMaker. Cut monthly AWS costs by 25%.
+
+**Intelligent Tutor System** — NLP-powered web app that teaches English grammar to middle school students. Published at NCCC20 (9th National Conference on Computing and Communication, 2020).
+
+---
+
+### Proof of work
+
+📊 **Tableau** — [public.tableau.com/app/profile/dharaneesh.subramani](https://public.tableau.com/app/profile/dharaneesh.subramani)  
+🏆 **Kaggle** — Top 3% in House Price Prediction (5,000+ teams)  
+🥇 **Utah Game Day Analytics** — 1st place out of 70 teams (Super Bowl ad analysis, 1M+ tweets)  
+📄 **Published Research** — NCCC20, Intelligent Tutor System for English Grammar  
+🏅 **Harris County Innovation Award, 2025** — Recognized for technical excellence and community impact
+
+---
+
+### Let's talk
+
+If you're hiring for data, AI, or engineering roles — or just want to geek out about LLMs, pipelines, or dashboards — I'd love to connect.
 
 📫 dharaneeshsubra@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/dharaneeshraj/)
