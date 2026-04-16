@@ -57,9 +57,10 @@ Building         FastAPI, Flask, React, Supabase, Docker, Azure DevOps, Git
 📊 **Tableau** — [public.tableau.com/app/profile/dharaneesh.subramani](https://public.tableau.com/app/profile/dharaneesh.subramani)  
 🏆 **Kaggle** — Top 3% in House Price Prediction (5,000+ teams)  
 🥇 **Utah Game Day Analytics** — 1st place out of 70 teams (Super Bowl ad analysis, 1M+ tweets)  
-📄 **Published Research** — NCCC20, Intelligent Tutor System for English Grammar  
-🏅 **Harris County Innovation Award, 2025** — Recognized for technical excellence and community impact
-
+📄 **Published Research** — Contributed statistical analysis and data visualization to peer-reviewed publications including research on AAV-HSC
+gene editing for Rett syndrome and exome sequencing for diabetic retinopathy modifier genes, alongside the Intelligent Tutor System
+(NCCC20, 2020). Additional work underway. 
+🏅 **Harris County Innovation Award, 2025** — Recognized for technical excellence and community impact 
 ---
 
 ### Let's talk
